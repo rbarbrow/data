@@ -368,5 +368,17 @@
     "category": "tool holders",
     "grid_x": 3,
     "grid_y": 3
+  },
+  "9327260213286645986": {
+    "id": "9327260213286645986",
+    "name": "horizontal Spade Bit Holder Gridfinity",
+    "creator": "Robert Barbrow",
+    "license": "unimplemented",
+    "url": "https://thangs.com/mythangs/file/216505",
+    "image_url": "https://storage.googleapis.com/thangs-thumbnails/production/ec44e7cb-a8bf-4d6c-befe-50990ff941f7/Untitled.png",
+    "description": "Hold array of spadebits",
+    "category":"tool holders",
+    "grid_x": "3",
+    "grid_y": "4"
   }
 }
